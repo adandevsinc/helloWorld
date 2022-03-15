@@ -1,3 +1,6 @@
 # frozen_string_literal: true
 
-puts 'Hello World'
+# printing
+puts 'Hello'
+print 'World'
+puts '!'
