@@ -10,5 +10,9 @@ num = 10
 num += 100
 puts num
 
+num = -36.8
+puts num.abs
+puts num.round
+
 puts Math.sqrt(81)
 puts Math.log(0)
