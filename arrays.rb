@@ -14,4 +14,5 @@ puts "\n\n"
 puts array[2..-1]
 
 puts "\n\n"
+puts array.include?(3)
 puts array.length
