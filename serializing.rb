@@ -29,4 +29,4 @@ class CerealBox
   end
 end
 
-puts "example to_s: #{CerealBox.new(4, true).to_s}"
+puts "example to_s: #{CerealBox.new(4, true)}"
